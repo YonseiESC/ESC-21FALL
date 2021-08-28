@@ -15,7 +15,6 @@
 |Week 7<br/>(11/11, 11/13)| EM Algorithm & Mixture model (ESL 8.5, )<br/> 발제자 :  |Alumni 연사특강|
 |Week 8<br/>(11/18)| Final Project 중간발표 <br/>||
 |Week 9<br/>(11/25)| Final Project 최종발표 <br/>||
-
 ||Final Exam and The End of Semester||
 
 
