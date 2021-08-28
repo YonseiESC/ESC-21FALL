@@ -4,7 +4,7 @@
 ## Plan
 | Date | Main Session(Machine Learning) <br> Every Thur.| Data Analysis Session <br> Sat. (Bi-weekly) |
 |:-------|:-----------------------:|:---------------------:|
-|Week 1<br/>(9/2, 9/4)| Overall Introduction & Recreation ||<br/> : 간사(김정규) & 부회장(박웅준) |빅콘 중간발표|
+|Week 1<br/>(9/2, 9/4)| Overall Introduction & Recreation <br/> : 간사(김정규) & 부회장(박웅준) |빅콘 중간발표|
 |Week 2<br/>(9/9)| Kernel Smoothing Methods (ESL 6)<br/> 발제자 :  ||
 |Week 3<br/>(9/16, 9/18)| Surport Vector Machines (ESL 12)<br/> 발제자 :  |빅콘 파이널 발표|
 |(9/23)| Korean Thanksgiving Day ||
