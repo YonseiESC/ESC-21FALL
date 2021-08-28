@@ -1,5 +1,5 @@
 # ESC-21FALL
-![ESC-FALL](https://user-images.githubusercontent.com/56993675/124572539-ac6f7600-de83-11eb-9264-110f7dbc3968.png)
+![ESCFALL](https://user-images.githubusercontent.com/56993675/131220781-6afdc147-3bff-4713-aa7a-2d79d1874639.png)
 
 ## Plan
 | Date | Main Session(Machine Learning) <br> Every Thur.| Data Analysis Session <br> Sat. (Bi-weekly) |
