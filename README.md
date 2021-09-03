@@ -5,21 +5,22 @@
 | Date | Main Session(Machine Learning) <br> Every Thur.| Data Analysis Session <br> Sat. (Bi-weekly) |
 |:-------|:-----------------------:|:---------------------:|
 |Week 1<br/>(9/2, 9/4)| Overall Introduction & Recreation <br/> : 간사(김정규) & 부회장(박웅준) |빅콘 중간발표|
-|Week 2<br/>(9/9)| Kernel Smoothing Methods (ESL 6)<br/> 발제자 :  ||
-|Week 3<br/>(9/16, 9/18)| Surport Vector Machines (ESL 12)<br/> 발제자 :  |빅콘 파이널 발표|
+|Week 2<br/>(9/9)| Kernel Smoothing Methods (ESL 6)<br/> 발제자 : 이규민 & 김수연 ||
+|Week 3<br/>(9/16, 9/18)| Surport Vector Machines (ESL 12)<br/> 발제자 : 김수연 & 이재현 |빅콘 파이널 발표|
 |(9/23)| Korean Thanksgiving Day ||
-|Week 4<br/>(9/30, 10/2)| Splines (ESL 5)<br/> 발제자 :  |Alumni 연사특강|
+|Week 4<br/>(9/30, 10/2)| Splines (ESL 5)<br/> 발제자 : 오현도 & 박상용 |Alumni 연사특강|
 || Midterm Exam ||
-|Week 5<br/>(10/28, 10/30)| Tree & Boosting (ESL 9, 10)<br/> 발제자 :  |Alumni 연사특강|
-|Week 6<br/>(11/4)| Bagging & Random Forest(ESL 8.7, 15)<br/> 발제자 :  ||
-|Week 7<br/>(11/11, 11/13)| EM Algorithm & Mixture model (ESL 8.5, )<br/> 발제자 :  |Alumni 연사특강|
+|Week 5<br/>(10/28, 10/30)| Tree & Boosting (ESL 9, 10)<br/> 발제자 : 안현준 & 서상수 |Alumni 연사특강|
+|Week 6<br/>(11/4)| Bagging & Random Forest(ESL 8.7, 15)<br/> 발제자 : 고정민 & 오다건 ||
+|Week 7<br/>(11/11, 11/13)| EM Algorithm & Mixture model (ESL 8.5, )<br/> 발제자 : 이규민 &  |Alumni 연사특강|
 |Week 8<br/>(11/18)| Final Project 중간발표 <br/>||
 |Week 9<br/>(11/25)| Final Project 최종발표 <br/>||
 ||Final Exam and The End of Semester||
 
 
 ## Session Youtube Link
-[ESC 2021-FALL] 
+[ESC 2021-FALL] 210902 Week1 - Overview  
+https://youtu.be/7PSozlNvlTs  
 
 ## 학술부 세션 영상 링크
 [ESC 2021-FALL 학술부]  
