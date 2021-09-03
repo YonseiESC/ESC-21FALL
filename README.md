@@ -12,7 +12,7 @@
 || Midterm Exam ||
 |Week 5<br/>(10/28, 10/30)| Tree & Boosting (ESL 9, 10)<br/> 발제자 : 안현준 & 서상수 |Alumni 연사특강|
 |Week 6<br/>(11/4)| Bagging & Random Forest(ESL 8.7, 15)<br/> 발제자 : 고정민 & 오다건 ||
-|Week 7<br/>(11/11, 11/13)| EM Algorithm & Mixture model (ESL 8.5, )<br/> 발제자 : 이규민 &  |Alumni 연사특강|
+|Week 7<br/>(11/11, 11/13)| EM Algorithm & Mixture model (ESL 8.5, )<br/> 발제자 : 이규민 & 오현도 |Alumni 연사특강|
 |Week 8<br/>(11/18)| Final Project 중간발표 <br/>||
 |Week 9<br/>(11/25)| Final Project 최종발표 <br/>||
 ||Final Exam and The End of Semester||
