@@ -22,6 +22,9 @@
 [ESC 2021-FALL] 210902 Week1 - Overview  
 https://youtu.be/7PSozlNvlTs  
 
+[ESC 2021-FALL] 210909 Week2 - Kernel Smoothing Methods  
+https://www.youtube.com/watch?v=P0fd5Lb5STU
+
 ## 학술부 세션 영상 링크
 [ESC 2021-FALL 학술부]  
 
