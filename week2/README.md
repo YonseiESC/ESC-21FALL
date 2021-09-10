@@ -61,3 +61,11 @@ Then $\hat{f}=Wy$.
 **(b)** (a)의 결과를 보고 optimal한 lambda값 (이 경우엔 $\sigma$)을 찾아서 $\hat{f}$ 를 구하고 주어진 $f$와 비교해봅시다.
 
 **(c)** simulated data에 대해서 bandwidth에 따라 fitted line이 어떻게 변화하는지 관찰하고 (a)의 결과와 비교해서 설명해보세요!
+
+## ESL exercise 6.8
+
+문제에서 설명해주듯이 Joint 분포가 두 gaussian kernel의 곱 형태로 표현된다는 것을 이용해서 x가 given일 때 y의 조건부 분포의 평균을 계산해보세요.
+
+계산 후에 결과가 Nadaraya-Watson estimator와 같은 형태를 갖습니다.
+
+classification의 경우에는, y의 kernel을 gaussian이 아니라 해당 class면 1, 그렇지 않으면 0이 되는 함수로 바꾸고 위와 같은 과정을 반복하면 됩니다. 
