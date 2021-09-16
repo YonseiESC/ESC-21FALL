@@ -25,6 +25,9 @@ https://youtu.be/7PSozlNvlTs
 [ESC 2021-FALL] 210909 Week2 - Kernel Smoothing Methods  
 https://www.youtube.com/watch?v=P0fd5Lb5STU
 
+[ESC 2021-FALL] 210916 Week3 - Support Vector Machine  
+https://youtu.be/MaHXfJkLeOY  
+
 ## 학술부 세션 영상 링크
 [ESC 2021-FALL 학술부]  
 
