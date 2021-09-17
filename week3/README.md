@@ -10,8 +10,8 @@
 
 ![image-20210914013132181](https://i.loli.net/2021/09/14/9fLoezjSxvC3U4c.png)
 
-![image-20210917191647657](https://i.loli.net/2021/09/17/huZ5RyTO1dVlGcM.png)
-  
+![image-20210917193033549](https://i.loli.net/2021/09/17/S8GMDgFBNxkhEzw.png)
+
 (a) Derive **(12.10)**, **(12.11)** and **(12.12)**
 
 (b) Explain the meaning of **C** according to **(12.8)**.
@@ -23,5 +23,4 @@
 - **y(x'β + β0)** or **y(x'β + β0) /∥β∥** 
 
 - **ξ**
-
 
