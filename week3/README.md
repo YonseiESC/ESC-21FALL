@@ -11,7 +11,7 @@
 ![image-20210914013132181](https://i.loli.net/2021/09/14/9fLoezjSxvC3U4c.png)
 
 ![image-20210917191647657](https://i.loli.net/2021/09/17/huZ5RyTO1dVlGcM.png)
-
+  
 (a) Derive **(12.10)**, **(12.11)** and **(12.12)**
 
 (b) Explain the meaning of **C** according to **(12.8)**.
