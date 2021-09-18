@@ -1,3 +1,7 @@
+🔗 **reference**  
+📙 ESL Ch9 
+📚 ISL 4.5 / 12.1 / 12.2 / 12.3  
+
 ## HW
 
 ### 1 The Two Parameters of SVM:  C and α
