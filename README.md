@@ -29,7 +29,12 @@ https://www.youtube.com/watch?v=P0fd5Lb5STU
 https://youtu.be/MaHXfJkLeOY  
 
 ## 학술부 세션 영상 링크
-[ESC 2021-FALL 학술부]  
+[ESC 2021-FALL 학술부] 21097 Week2 - kernel smoothing method  
+https://youtu.be/wVYka9PYlJk
+
+[ESC 2021-FALL 학술부] 210914 Week3 - SVM
+https://youtu.be/MHLfosE7SKk
+
 
 ## 교재
 An Introduction to Statistical Learning(G. James, 외)  
