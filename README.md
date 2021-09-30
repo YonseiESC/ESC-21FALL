@@ -28,6 +28,10 @@ https://www.youtube.com/watch?v=P0fd5Lb5STU
 [ESC 2021-FALL] 210916 Week3 - Support Vector Machine  
 https://youtu.be/MaHXfJkLeOY  
 
+[ESC 2021-FALL] 210930 Week4 - Spline, RKHS  
+https://youtu.be/jRb2CPQFxI0
+
+
 ## 학술부 세션 영상 링크
 [ESC 2021-FALL 학술부] 21097 Week2 - kernel smoothing method  
 https://youtu.be/wVYka9PYlJk
