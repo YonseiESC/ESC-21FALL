@@ -36,8 +36,11 @@ https://youtu.be/jRb2CPQFxI0
 [ESC 2021-FALL 학술부] 21097 Week2 - kernel smoothing method  
 https://youtu.be/wVYka9PYlJk
 
-[ESC 2021-FALL 학술부] 210914 Week3 - SVM
+[ESC 2021-FALL 학술부] 210914 Week3 - SVM  
 https://youtu.be/MHLfosE7SKk
+
+[ESC 2021-FALL 학술부] 211026 Week5 - Tree & Boosting  
+https://youtu.be/rZgHGqqFWbA  
 
 
 ## 교재
