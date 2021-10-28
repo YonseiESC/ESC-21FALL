@@ -29,7 +29,10 @@ https://www.youtube.com/watch?v=P0fd5Lb5STU
 https://youtu.be/MaHXfJkLeOY  
 
 [ESC 2021-FALL] 210930 Week4 - Spline, RKHS  
-https://youtu.be/jRb2CPQFxI0
+https://youtu.be/jRb2CPQFxI0  
+
+[ESC 2021-FALL] 211028 Week5 - Tree & Boosting  
+https://youtu.be/2A5mxMo5jlo  
 
 
 ## 학술부 세션 영상 링크
