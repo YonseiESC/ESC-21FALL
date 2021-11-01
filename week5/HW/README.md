@@ -1,5 +1,7 @@
 # Week5 HW
 
+- :man_student: Lecturers
+  - 이재현, 안현준
 - :book: Readings
   - Tree: (Optional: ISL 8.1), ESL 9.2
   - Boosting: ESL 10
@@ -9,3 +11,4 @@
     - `pid.dat`, `pidtest.dat` 및 과제 제출본 `HW6LeeJH.pdf` 제공.
     - 코드를 바르게 고쳐도 결과값 (confusion matrix, accuracy 등) 에는 차이가 없음.
   - Boosting: `Boosing Methods and Additive Model.pdf`
+
