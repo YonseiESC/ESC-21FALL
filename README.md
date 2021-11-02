@@ -45,6 +45,9 @@ https://youtu.be/MHLfosE7SKk
 [ESC 2021-FALL 학술부] 211026 Week5 - Tree & Boosting  
 https://youtu.be/rZgHGqqFWbA  
 
+[ESC 2021-FALL 학술부] 211102 Week6 - Bagging & Random Forest
+https://youtu.be/CkSGmWB5kaQ  
+
 
 ## 교재
 An Introduction to Statistical Learning(G. James, 외)  
