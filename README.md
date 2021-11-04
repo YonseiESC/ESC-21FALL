@@ -34,6 +34,8 @@ https://youtu.be/jRb2CPQFxI0
 [ESC 2021-FALL] 211028 Week5 - Tree & Boosting  
 https://youtu.be/2A5mxMo5jlo  
 
+[ESC 2021-FALL] 211104 Week6 - Bagging & Random Forest
+https://youtu.be/8-rEGknAURs  
 
 ## 학술부 세션 영상 링크
 [ESC 2021-FALL 학술부] 21097 Week2 - kernel smoothing method  
