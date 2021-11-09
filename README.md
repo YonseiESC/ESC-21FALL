@@ -47,8 +47,11 @@ https://youtu.be/MHLfosE7SKk
 [ESC 2021-FALL 학술부] 211026 Week5 - Tree & Boosting  
 https://youtu.be/rZgHGqqFWbA  
 
-[ESC 2021-FALL 학술부] 211102 Week6 - Bagging & Random Forest
+[ESC 2021-FALL 학술부] 211102 Week6 - Bagging & Random Forest  
 https://youtu.be/CkSGmWB5kaQ  
+
+[ESC 2021-FALL 학술부] 211109 Week6 - GMM & EM-Algorithm  
+https://youtu.be/Fgv6i--tGkY  
 
 
 ## 교재
