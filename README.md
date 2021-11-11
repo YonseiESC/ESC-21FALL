@@ -34,8 +34,11 @@ https://youtu.be/jRb2CPQFxI0
 [ESC 2021-FALL] 211028 Week5 - Tree & Boosting  
 https://youtu.be/2A5mxMo5jlo  
 
-[ESC 2021-FALL] 211104 Week6 - Bagging & Random Forest
+[ESC 2021-FALL] 211104 Week6 - Bagging & Random Forest  
 https://youtu.be/8-rEGknAURs  
+
+[ESC 2021-FALL] 211111 Week7 - GMM & EM Algorithm  
+https://youtu.be/UV5UeGKXVzg  
 
 ## 학술부 세션 영상 링크
 [ESC 2021-FALL 학술부] 21097 Week2 - kernel smoothing method  
@@ -50,7 +53,7 @@ https://youtu.be/rZgHGqqFWbA
 [ESC 2021-FALL 학술부] 211102 Week6 - Bagging & Random Forest  
 https://youtu.be/CkSGmWB5kaQ  
 
-[ESC 2021-FALL 학술부] 211109 Week6 - GMM & EM-Algorithm  
+[ESC 2021-FALL 학술부] 211109 Week7 - GMM & EM-Algorithm  
 https://youtu.be/Fgv6i--tGkY  
 
 
