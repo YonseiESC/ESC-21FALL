@@ -56,6 +56,8 @@ https://youtu.be/CkSGmWB5kaQ
 [ESC 2021-FALL 학술부] 211109 Week7 - GMM & EM-Algorithm  
 https://youtu.be/Fgv6i--tGkY  
 
+[ESC 2021-FALL Special Session] 211113 Nonparametric Bayesian model - 강경훈(ESC 19기)  
+https://youtu.be/9q3DeOnnsu4  
 
 ## 교재
 An Introduction to Statistical Learning(G. James, 외)  
