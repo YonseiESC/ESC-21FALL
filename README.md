@@ -59,6 +59,10 @@ https://youtu.be/Fgv6i--tGkY
 [ESC 2021-FALL Special Session] 211113 Nonparametric Bayesian model - 강경훈(ESC 19기)  
 https://youtu.be/9q3DeOnnsu4  
 
+## Final Project
+[ESC 2021-FALL Final Project] 211118 Mid-Check  
+https://youtu.be/X3sHzCC7HdY  
+
 ## 교재
 An Introduction to Statistical Learning(G. James, 외)  
 The Elements of Statistical Learning(T. Hastie 외)  
