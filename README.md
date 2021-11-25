@@ -63,6 +63,9 @@ https://youtu.be/9q3DeOnnsu4
 [ESC 2021-FALL Final Project] 211118 Mid-Check  
 https://youtu.be/X3sHzCC7HdY  
 
+[ESC 2021-FALL Final Project] 211125 Final  
+https://youtu.be/XJrL_1kaCiE  
+
 ## 교재
 An Introduction to Statistical Learning(G. James, 외)  
 The Elements of Statistical Learning(T. Hastie 외)  
